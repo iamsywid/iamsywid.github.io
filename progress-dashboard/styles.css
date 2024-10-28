@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.pixel-row {
+    display: flex;
+    gap: 5px;
+}
+
+.pixel {
+    width: 20px;
+    height: 20px;
+    background-color: #ddd;
+    border: 1px solid #aaa;
+}
+
+.pixel.filled {
+    background-color: #007bff; /* Color for completed units */
+}
