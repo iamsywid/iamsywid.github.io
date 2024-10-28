@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Mabuhay!
-
 Greetings, esteemed intergalactic beings! Welcome to my humble Earth Chronicles, a comprehensive guide to my human experiences. Here, you'll discover my multitude of interests, including my unwavering commitment to acquiring random knowledge and some questionable decisions that have shaped my existence on this little blue planet.
 
 Let’s launch into this adventure!
